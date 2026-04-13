@@ -1,0 +1,1001 @@
+Date_of_Attack,Attack_Type,Targeted_Sector,Severity_Score,Estimated_Financial_Impact_USD,Region,Entry_Vector
+01/01/2024,Credential Stuffing,Finance,2,399430,Asia,Email
+02/01/2024,Supply Chain Attack,Retail,5,50425,Africa,Phishing Link
+03/01/2024,Credential Stuffing,Government,1,704240,EU,Phishing Link
+04/01/2024,DDoS,Retail,7,546697,Africa,RDP
+05/01/2024,Malware,Healthcare,9,752518,South America,Phishing Link
+06/01/2024,DDoS,Government,9,13198,UK,UK
+07/01/2024,Credential Stuffing,Government,8,610296,EU,RDP
+08/01/2024,Phishing,Retail,1,864487,EU,Phishing Link
+09/01/2024,Insider Threat,Government,2,187032,Asia,USB
+10/01/2024,DDoS,Finance,6,615527,UK,Compromised Vendor
+11/01/2024,Insider Threat,Education,6,389270,Australia,Compromised Vendor
+12/01/2024,Phishing,Finance,3,395416,US,Supply Chain
+13/01/2024,Credential Stuffing,Government,2,323553,EU,RDP
+14/01/2024,Phishing,Education,5,392543,EU,Web Exploit
+15/01/2024,Ransomware,Healthcare,7,448844,UK,USB
+16/01/2024,Phishing,Retail,10,195932,US,RDP
+17/01/2024,Credential Stuffing,Energy,8,172144,South America,Compromised Vendor
+18/01/2024,Phishing,Government,2,988555,US,RDP
+19/01/2024,Ransomware,Retail,7,913874,South America,USB
+20/01/2024,Credential Stuffing,Energy,4,173102,EU,Compromised Vendor
+21/01/2024,Ransomware,Education,7,163241,Australia,Email
+22/01/2024,Phishing,Retail,1,242473,Africa,Supply Chain
+23/01/2024,Insider Threat,Technology,8,548958,South America,Compromised Vendor
+24/01/2024,Credential Stuffing,Energy,7,558524,Africa,Email
+25/01/2024,Supply Chain Attack,Government,7,627152,South America,USB
+26/01/2024,Malware,Government,1,367155,Asia,Phishing Link
+27/01/2024,Ransomware,Finance,4,736371,South America,Compromised Vendor
+28/01/2024,Ransomware,Technology,6,426257,South America,RDP
+29/01/2024,Malware,Retail,3,797547,Asia,RDP
+30/01/2024,Phishing,Retail,9,733067,UK,Web Exploit
+31/01/2024,Insider Threat,Finance,1,751841,Australia,USB
+01/02/2024,DDoS,Finance,4,169947,Africa,Web Exploit
+02/02/2024,Malware,Energy,9,95134,Asia,USB
+03/02/2024,DDoS,Retail,7,881763,EU,USB
+04/02/2024,Malware,Education,8,939406,South America,USB
+05/02/2024,Ransomware,Education,9,653804,US,RDP
+06/02/2024,Supply Chain Attack,Healthcare,5,42526,South America,Supply Chain
+07/02/2024,Ransomware,Technology,4,276353,EU,USB
+08/02/2024,Phishing,Finance,7,577567,US,Email
+09/02/2024,Insider Threat,Education,6,14535,Asia,Compromised Vendor
+10/02/2024,Malware,Government,4,40864,Australia,USB
+11/02/2024,Malware,Government,2,758680,UK,RDP
+12/02/2024,Malware,Finance,9,411765,South America,USB
+13/02/2024,Credential Stuffing,Energy,4,463988,Australia,Supply Chain
+14/02/2024,Phishing,Government,7,453375,UK,RDP
+15/02/2024,Supply Chain Attack,Healthcare,3,47161,US,Phishing Link
+16/02/2024,Credential Stuffing,Government,5,381799,Asia,Web Exploit
+17/02/2024,Credential Stuffing,Technology,8,880854,US,RDP
+18/02/2024,Insider Threat,Technology,4,607709,EU,Compromised Vendor
+19/02/2024,DDoS,Energy,6,805270,South America,Web Exploit
+20/02/2024,Phishing,Healthcare,5,881823,UK,Email
+21/02/2024,Malware,Retail,1,466823,Asia,Compromised Vendor
+22/02/2024,Ransomware,Government,9,229391,EU,Compromised Vendor
+23/02/2024,Insider Threat,Government,1,181759,South America,Phishing Link
+24/02/2024,DDoS,Education,3,592984,US,Email
+25/02/2024,Supply Chain Attack,Retail,2,627833,UK,Phishing Link
+26/02/2024,Ransomware,Technology,6,888565,Australia,Email
+27/02/2024,Insider Threat,Finance,6,29959,Asia,Supply Chain
+28/02/2024,DDoS,Finance,6,707137,EU,Phishing Link
+29/02/2024,DDoS,Technology,4,377388,US,Phishing Link
+01/03/2024,DDoS,Healthcare,6,842921,Australia,Phishing Link
+02/03/2024,Credential Stuffing,Government,5,652615,UK,Email
+03/03/2024,Supply Chain Attack,Government,3,344809,Africa,Web Exploit
+04/03/2024,DDoS,Energy,10,491302,EU,Web Exploit
+05/03/2024,Malware,Government,3,991139,Australia,Phishing Link
+06/03/2024,Insider Threat,Education,6,912464,Africa,Web Exploit
+07/03/2024,Insider Threat,Finance,2,905447,South America,Compromised Vendor
+08/03/2024,Supply Chain Attack,Technology,9,727406,UK,Phishing Link
+09/03/2024,Malware,Government,6,779510,UK,Web Exploit
+10/03/2024,Credential Stuffing,Retail,9,90647,UK,Email
+11/03/2024,Malware,Finance,2,832718,EU,Supply Chain
+12/03/2024,Credential Stuffing,Energy,4,938703,UK,RDP
+13/03/2024,Supply Chain Attack,Energy,1,974789,Asia,Phishing Link
+14/03/2024,Insider Threat,Retail,5,868930,UK,Compromised Vendor
+15/03/2024,DDoS,Retail,5,518452,Asia,Email
+16/03/2024,Ransomware,Energy,9,358211,Africa,USB
+17/03/2024,Credential Stuffing,Healthcare,3,996321,Asia,Supply Chain
+18/03/2024,Credential Stuffing,Healthcare,5,557829,US,Phishing Link
+19/03/2024,Malware,Education,3,404585,UK,Phishing Link
+20/03/2024,Insider Threat,Education,2,56133,US,Web Exploit
+21/03/2024,Credential Stuffing,Technology,8,559786,Asia,Phishing Link
+22/03/2024,Phishing,Energy,3,904478,US,USB
+23/03/2024,Insider Threat,Education,4,986749,US,USB
+24/03/2024,DDoS,Healthcare,1,484676,EU,Compromised Vendor
+25/03/2024,Supply Chain Attack,Government,5,489205,South America,Compromised Vendor
+26/03/2024,Phishing,Finance,6,242900,Australia,Compromised Vendor
+27/03/2024,DDoS,Finance,8,751478,EU,Web Exploit
+28/03/2024,Malware,Healthcare,1,729497,Asia,Phishing Link
+29/03/2024,Ransomware,Technology,3,575733,Asia,Web Exploit
+30/03/2024,Phishing,Education,7,456024,Australia,Supply Chain
+31/03/2024,Malware,Education,9,785289,UK,RDP
+01/04/2024,DDoS,Energy,8,687831,Africa,USB
+02/04/2024,Phishing,Finance,6,827498,Asia,Phishing Link
+03/04/2024,Phishing,Government,7,77075,US,Compromised Vendor
+04/04/2024,Insider Threat,Technology,8,274327,South America,Compromised Vendor
+05/04/2024,Malware,Government,8,392714,Asia,Email
+06/04/2024,Supply Chain Attack,Technology,3,177288,UK,Phishing Link
+07/04/2024,Phishing,Energy,2,280652,US,Phishing Link
+08/04/2024,Ransomware,Government,7,951845,US,Supply Chain
+09/04/2024,Ransomware,Retail,1,932040,US,RDP
+10/04/2024,Insider Threat,Healthcare,6,881623,Asia,Web Exploit
+11/04/2024,Phishing,Finance,3,747300,Australia,USB
+12/04/2024,Credential Stuffing,Technology,7,411070,Asia,Email
+13/04/2024,Insider Threat,Technology,2,144414,South America,Supply Chain
+14/04/2024,Insider Threat,Technology,6,416963,UK,Supply Chain
+15/04/2024,Insider Threat,Retail,3,868856,EU,Compromised Vendor
+16/04/2024,Supply Chain Attack,Education,6,347315,Australia,Web Exploit
+17/04/2024,Phishing,Healthcare,7,377249,South America,Web Exploit
+18/04/2024,Phishing,Healthcare,5,652135,South America,Supply Chain
+19/04/2024,DDoS,Government,2,934631,Africa,Supply Chain
+20/04/2024,Insider Threat,Technology,9,36400,UK,Supply Chain
+21/04/2024,Insider Threat,Education,8,92210,Africa,Web Exploit
+22/04/2024,Insider Threat,Retail,8,24837,US,Web Exploit
+23/04/2024,Insider Threat,Finance,1,643065,UK,Compromised Vendor
+24/04/2024,Ransomware,Healthcare,2,482488,EU,Web Exploit
+25/04/2024,Credential Stuffing,Retail,8,968889,South America,Compromised Vendor
+26/04/2024,Credential Stuffing,Government,5,18913,Asia,Web Exploit
+27/04/2024,Phishing,Education,6,62695,US,Supply Chain
+28/04/2024,Credential Stuffing,Healthcare,3,458326,Australia,RDP
+29/04/2024,Credential Stuffing,Retail,2,354636,Africa,RDP
+30/04/2024,Insider Threat,Energy,1,312437,US,Email
+01/05/2024,Phishing,Healthcare,8,187318,US,Supply Chain
+02/05/2024,Credential Stuffing,Healthcare,3,641192,UK,USB
+03/05/2024,Malware,Healthcare,7,671602,Asia,Supply Chain
+04/05/2024,Credential Stuffing,Finance,4,140182,Australia,Email
+05/05/2024,Insider Threat,Technology,10,54339,UK,Web Exploit
+06/05/2024,Credential Stuffing,Government,10,302856,Asia,Email
+07/05/2024,Phishing,Retail,9,931980,UK,Email
+08/05/2024,Supply Chain Attack,Education,4,186929,Asia,Compromised Vendor
+09/05/2024,Credential Stuffing,Retail,10,728158,EU,Email
+10/05/2024,DDoS,Government,9,305880,Asia,Web Exploit
+11/05/2024,Insider Threat,Technology,7,203930,EU,USB
+12/05/2024,Malware,Energy,10,176683,UK,Compromised Vendor
+13/05/2024,Insider Threat,Retail,2,150908,Asia,Phishing Link
+14/05/2024,Phishing,Energy,1,362165,Australia,RDP
+15/05/2024,Supply Chain Attack,Technology,6,942135,EU,Email
+16/05/2024,Ransomware,Government,5,452120,Africa,USB
+17/05/2024,Supply Chain Attack,Healthcare,3,968560,EU,RDP
+18/05/2024,Ransomware,Retail,6,141200,EU,Email
+19/05/2024,Supply Chain Attack,Finance,3,279824,South America,Compromised Vendor
+20/05/2024,Credential Stuffing,Finance,8,597462,UK,Compromised Vendor
+21/05/2024,Credential Stuffing,Healthcare,4,572201,US,Web Exploit
+22/05/2024,Insider Threat,Education,6,153350,EU,Supply Chain
+23/05/2024,Ransomware,Technology,6,756424,Asia,Web Exploit
+24/05/2024,Phishing,Healthcare,7,772247,South America,Email
+25/05/2024,Supply Chain Attack,Government,3,62630,South America,Compromised Vendor
+26/05/2024,Phishing,Technology,9,873245,UK,Web Exploit
+27/05/2024,Ransomware,Retail,7,1945,Asia,Supply Chain
+28/05/2024,Insider Threat,Technology,4,191052,EU,Email
+29/05/2024,Supply Chain Attack,Finance,9,359782,UK,RDP
+30/05/2024,Phishing,Energy,2,16692,US,Compromised Vendor
+31/05/2024,Insider Threat,Government,8,712320,US,Phishing Link
+01/06/2024,Malware,Technology,6,199849,Australia,USB
+02/06/2024,Credential Stuffing,Energy,1,175945,Asia,Supply Chain
+03/06/2024,Supply Chain Attack,Healthcare,3,348230,South America,Phishing Link
+04/06/2024,Credential Stuffing,Finance,1,148239,UK,USB
+05/06/2024,Malware,Government,5,187153,Australia,Supply Chain
+06/06/2024,Phishing,Healthcare,5,636572,Asia,USB
+07/06/2024,Malware,Healthcare,8,906563,South America,Supply Chain
+08/06/2024,Credential Stuffing,Education,7,441638,US,Web Exploit
+09/06/2024,Malware,Finance,8,404804,South America,USB
+10/06/2024,Insider Threat,Energy,7,969062,South America,Email
+11/06/2024,Malware,Government,8,550357,South America,USB
+12/06/2024,Insider Threat,Education,9,942690,Asia,RDP
+13/06/2024,Credential Stuffing,Retail,3,93144,Australia,Compromised Vendor
+14/06/2024,Ransomware,Education,5,80520,Africa,Email
+15/06/2024,Credential Stuffing,Technology,4,205860,EU,Supply Chain
+16/06/2024,Supply Chain Attack,Energy,5,10937,South America,Web Exploit
+17/06/2024,Malware,Healthcare,5,711984,US,Phishing Link
+18/06/2024,Malware,Retail,7,119189,Africa,Web Exploit
+19/06/2024,Malware,Healthcare,6,739236,US,USB
+20/06/2024,Malware,Government,7,87709,EU,Compromised Vendor
+21/06/2024,Ransomware,Education,6,250891,South America,Web Exploit
+22/06/2024,Ransomware,Government,2,823054,Australia,Compromised Vendor
+23/06/2024,Phishing,Technology,9,744650,US,Phishing Link
+24/06/2024,Ransomware,Education,3,536643,US,Email
+25/06/2024,Ransomware,Technology,6,99295,UK,USB
+26/06/2024,Malware,Government,3,165764,South America,Email
+27/06/2024,DDoS,Healthcare,7,243888,Australia,RDP
+28/06/2024,DDoS,Energy,2,211700,Africa,USB
+29/06/2024,Supply Chain Attack,Retail,1,543860,South America,Web Exploit
+30/06/2024,Supply Chain Attack,Retail,6,554381,Asia,Web Exploit
+01/07/2024,Ransomware,Retail,3,236938,US,Phishing Link
+02/07/2024,Credential Stuffing,Healthcare,3,174235,Australia,Supply Chain
+03/07/2024,Credential Stuffing,Technology,5,356098,EU,Email
+04/07/2024,Phishing,Government,5,28614,South America,Compromised Vendor
+05/07/2024,Credential Stuffing,Healthcare,8,429735,US,RDP
+06/07/2024,Credential Stuffing,Government,7,411681,EU,Email
+07/07/2024,Ransomware,Government,8,775330,Africa,Phishing Link
+08/07/2024,DDoS,Healthcare,4,214238,Asia,Phishing Link
+09/07/2024,Malware,Government,5,376116,US,USB
+10/07/2024,Malware,Energy,1,705211,Asia,Phishing Link
+11/07/2024,Phishing,Retail,10,648077,Asia,Email
+12/07/2024,DDoS,Government,7,263939,EU,Email
+13/07/2024,Insider Threat,Government,8,145488,US,USB
+14/07/2024,Phishing,Finance,4,463438,UK,RDP
+15/07/2024,Supply Chain Attack,Retail,9,850849,US,Web Exploit
+16/07/2024,Malware,Retail,9,75665,UK,RDP
+17/07/2024,Insider Threat,Education,4,481039,UK,Phishing Link
+18/07/2024,Phishing,Finance,10,458929,Africa,Web Exploit
+19/07/2024,Phishing,Retail,1,515276,Africa,Supply Chain
+20/07/2024,Credential Stuffing,Technology,4,401320,UK,RDP
+21/07/2024,Ransomware,Finance,3,450217,Australia,Supply Chain
+22/07/2024,Phishing,Retail,9,710952,US,Compromised Vendor
+23/07/2024,Insider Threat,Education,1,183135,South America,Web Exploit
+24/07/2024,Phishing,Healthcare,6,346242,Africa,RDP
+25/07/2024,Ransomware,Finance,7,968393,South America,Compromised Vendor
+26/07/2024,Credential Stuffing,Finance,2,229046,Africa,Compromised Vendor
+27/07/2024,Supply Chain Attack,Education,8,91746,Africa,Supply Chain
+28/07/2024,Phishing,Government,2,279744,South America,Compromised Vendor
+29/07/2024,DDoS,Healthcare,4,752667,Australia,Email
+30/07/2024,Supply Chain Attack,Finance,3,427403,EU,Phishing Link
+31/07/2024,DDoS,Healthcare,9,639691,South America,Phishing Link
+01/08/2024,DDoS,Government,9,418117,UK,Supply Chain
+02/08/2024,Credential Stuffing,Energy,2,454122,US,Compromised Vendor
+03/08/2024,Supply Chain Attack,Government,8,984348,Australia,Phishing Link
+04/08/2024,Phishing,Education,8,333483,Africa,RDP
+05/08/2024,Insider Threat,Government,9,883093,South America,Web Exploit
+06/08/2024,DDoS,Retail,7,899756,South America,RDP
+07/08/2024,Insider Threat,Government,9,762763,EU,USB
+08/08/2024,Credential Stuffing,Government,4,650034,South America,USB
+09/08/2024,Credential Stuffing,Technology,5,796607,US,Email
+10/08/2024,Phishing,Technology,7,324266,US,Supply Chain
+11/08/2024,Phishing,Finance,4,49545,Australia,Web Exploit
+12/08/2024,Credential Stuffing,Technology,9,150743,US,USB
+13/08/2024,Insider Threat,Education,4,236078,US,Compromised Vendor
+14/08/2024,Insider Threat,Retail,9,604594,US,RDP
+15/08/2024,DDoS,Healthcare,3,413914,South America,Email
+16/08/2024,Malware,Education,7,108057,Africa,Supply Chain
+17/08/2024,Ransomware,Energy,10,233971,EU,Web Exploit
+18/08/2024,Insider Threat,Retail,4,546559,South America,Web Exploit
+19/08/2024,DDoS,Technology,9,593402,US,Compromised Vendor
+20/08/2024,Insider Threat,Retail,1,777199,US,Supply Chain
+21/08/2024,Supply Chain Attack,Finance,1,954216,UK,Supply Chain
+22/08/2024,DDoS,Finance,9,747042,Asia,Compromised Vendor
+23/08/2024,DDoS,Retail,3,203014,US,Web Exploit
+24/08/2024,Insider Threat,Healthcare,3,130728,EU,Phishing Link
+25/08/2024,Phishing,Technology,1,560507,UK,USB
+26/08/2024,Insider Threat,Healthcare,6,674399,US,Compromised Vendor
+27/08/2024,Phishing,Technology,10,963777,Asia,USB
+28/08/2024,Credential Stuffing,Technology,2,161531,Australia,Phishing Link
+29/08/2024,Insider Threat,Healthcare,4,838812,Asia,Phishing Link
+30/08/2024,Insider Threat,Energy,2,939674,Asia,RDP
+31/08/2024,Insider Threat,Government,8,536327,UK,RDP
+01/09/2024,Credential Stuffing,Education,4,312227,South America,Supply Chain
+02/09/2024,Supply Chain Attack,Technology,4,807701,Australia,Phishing Link
+03/09/2024,Insider Threat,Government,4,173376,UK,Supply Chain
+04/09/2024,Credential Stuffing,Retail,10,113302,South America,Web Exploit
+05/09/2024,Ransomware,Healthcare,6,970839,Australia,Email
+06/09/2024,Ransomware,Energy,2,496197,EU,USB
+07/09/2024,Malware,Healthcare,9,360611,UK,Email
+08/09/2024,Malware,Technology,6,193727,South America,RDP
+09/09/2024,Supply Chain Attack,Retail,4,790308,EU,Web Exploit
+10/09/2024,Ransomware,Education,6,65530,Asia,RDP
+11/09/2024,Ransomware,Retail,6,647866,Africa,Web Exploit
+12/09/2024,Malware,Retail,1,82237,Asia,RDP
+13/09/2024,Phishing,Healthcare,5,38718,UK,USB
+14/09/2024,DDoS,Healthcare,8,658262,South America,RDP
+15/09/2024,Supply Chain Attack,Energy,10,853140,US,Phishing Link
+16/09/2024,Phishing,Education,6,129799,UK,USB
+17/09/2024,Supply Chain Attack,Finance,7,272453,EU,Phishing Link
+18/09/2024,Malware,Healthcare,5,156408,Africa,Email
+19/09/2024,Phishing,Finance,6,182925,Australia,Supply Chain
+20/09/2024,Insider Threat,Healthcare,10,465954,UK,Supply Chain
+21/09/2024,Malware,Technology,7,881488,South America,Phishing Link
+22/09/2024,DDoS,Education,4,113000,UK,RDP
+23/09/2024,DDoS,Energy,5,984957,Australia,USB
+24/09/2024,Malware,Energy,3,171387,Australia,Phishing Link
+25/09/2024,Insider Threat,Technology,8,261441,US,USB
+26/09/2024,Ransomware,Government,2,997457,Asia,Supply Chain
+27/09/2024,Insider Threat,Healthcare,2,390939,EU,Supply Chain
+28/09/2024,Insider Threat,Retail,8,462710,EU,Supply Chain
+29/09/2024,DDoS,Education,2,946192,EU,Compromised Vendor
+30/09/2024,Supply Chain Attack,Finance,3,612579,Asia,RDP
+01/10/2024,Phishing,Healthcare,1,256817,South America,Phishing Link
+02/10/2024,Supply Chain Attack,Government,8,721251,UK,RDP
+03/10/2024,Phishing,Government,5,632090,Africa,Supply Chain
+04/10/2024,Phishing,Government,4,338723,Africa,Supply Chain
+05/10/2024,DDoS,Healthcare,6,164702,South America,Email
+06/10/2024,DDoS,Technology,6,932990,South America,Web Exploit
+07/10/2024,Supply Chain Attack,Energy,5,246752,Australia,Phishing Link
+08/10/2024,DDoS,Government,10,296742,South America,Supply Chain
+09/10/2024,Ransomware,Retail,10,130790,South America,Phishing Link
+10/10/2024,Supply Chain Attack,Finance,8,796048,Australia,Supply Chain
+11/10/2024,Ransomware,Energy,5,594575,US,Email
+12/10/2024,Phishing,Finance,10,472816,Australia,Phishing Link
+13/10/2024,Insider Threat,Retail,9,461557,EU,USB
+14/10/2024,Insider Threat,Finance,10,861157,UK,Phishing Link
+15/10/2024,Insider Threat,Government,2,800344,US,Compromised Vendor
+16/10/2024,Phishing,Government,3,162676,South America,Phishing Link
+17/10/2024,Credential Stuffing,Retail,2,645103,Australia,Email
+18/10/2024,Insider Threat,Education,3,261370,Asia,RDP
+19/10/2024,Phishing,Retail,3,261509,Asia,USB
+20/10/2024,DDoS,Retail,2,978267,Australia,Supply Chain
+21/10/2024,Malware,Technology,6,115779,US,Web Exploit
+22/10/2024,Credential Stuffing,Healthcare,6,157506,US,Phishing Link
+23/10/2024,Supply Chain Attack,Healthcare,7,145390,Australia,Supply Chain
+24/10/2024,Phishing,Education,6,918291,Asia,Email
+25/10/2024,Ransomware,Technology,1,42771,Australia,Email
+26/10/2024,Phishing,Retail,4,543425,Africa,USB
+27/10/2024,Malware,Healthcare,2,187882,Africa,Supply Chain
+28/10/2024,DDoS,Retail,7,917676,EU,Email
+29/10/2024,Ransomware,Education,1,537241,Africa,Phishing Link
+30/10/2024,Supply Chain Attack,Healthcare,9,610787,Asia,Supply Chain
+31/10/2024,Phishing,Healthcare,7,723227,EU,RDP
+01/11/2024,DDoS,Finance,6,309721,US,USB
+02/11/2024,Malware,Energy,7,639931,EU,RDP
+03/11/2024,Malware,Government,8,846788,EU,Supply Chain
+04/11/2024,Malware,Retail,8,299604,Africa,Email
+05/11/2024,Insider Threat,Technology,4,355642,South America,RDP
+06/11/2024,Insider Threat,Education,4,466432,Asia,USB
+07/11/2024,Phishing,Retail,8,377268,Australia,Compromised Vendor
+08/11/2024,Malware,Technology,4,713910,UK,USB
+09/11/2024,Supply Chain Attack,Retail,1,315878,US,Compromised Vendor
+10/11/2024,Ransomware,Retail,6,311679,Asia,RDP
+11/11/2024,Supply Chain Attack,Education,9,308321,Australia,Supply Chain
+12/11/2024,Credential Stuffing,Government,9,993971,EU,Email
+13/11/2024,Credential Stuffing,Retail,4,737120,Africa,Web Exploit
+14/11/2024,Credential Stuffing,Technology,10,728729,EU,Supply Chain
+15/11/2024,Malware,Energy,6,537376,EU,Compromised Vendor
+16/11/2024,Supply Chain Attack,Healthcare,6,123544,Africa,Supply Chain
+17/11/2024,Ransomware,Finance,10,929712,Australia,USB
+18/11/2024,Ransomware,Government,4,633788,EU,RDP
+19/11/2024,Credential Stuffing,Government,2,402019,South America,USB
+20/11/2024,Ransomware,Retail,3,141856,Australia,Compromised Vendor
+21/11/2024,Credential Stuffing,Education,4,114578,Australia,Phishing Link
+22/11/2024,Phishing,Government,4,787319,South America,RDP
+23/11/2024,Ransomware,Finance,8,175035,Africa,RDP
+24/11/2024,Credential Stuffing,Finance,9,126799,South America,Phishing Link
+25/11/2024,Credential Stuffing,Energy,6,630851,South America,Email
+26/11/2024,Malware,Energy,2,208781,Australia,RDP
+27/11/2024,Insider Threat,Education,1,490164,UK,Phishing Link
+28/11/2024,DDoS,Retail,5,959437,US,Compromised Vendor
+29/11/2024,Supply Chain Attack,Technology,5,593319,EU,Web Exploit
+30/11/2024,Malware,Finance,2,662064,US,Email
+01/12/2024,Supply Chain Attack,Healthcare,1,729379,US,Web Exploit
+02/12/2024,Ransomware,Finance,2,8836,UK,Web Exploit
+03/12/2024,Phishing,Energy,7,674435,US,Phishing Link
+04/12/2024,DDoS,Government,3,316281,Asia,RDP
+05/12/2024,DDoS,Retail,1,447699,UK,Email
+06/12/2024,DDoS,Energy,9,838306,Africa,USB
+07/12/2024,DDoS,Government,10,779002,Africa,Compromised Vendor
+08/12/2024,Insider Threat,Finance,9,185620,EU,RDP
+09/12/2024,DDoS,Technology,4,587738,South America,Email
+10/12/2024,Credential Stuffing,Energy,6,79638,South America,RDP
+11/12/2024,Phishing,Energy,2,629438,Asia,Compromised Vendor
+12/12/2024,Ransomware,Education,5,273212,UK,Web Exploit
+13/12/2024,Malware,Government,2,200456,Asia,RDP
+14/12/2024,Phishing,Energy,6,273471,Australia,Email
+15/12/2024,Supply Chain Attack,Technology,6,662892,UK,Compromised Vendor
+16/12/2024,Credential Stuffing,Technology,5,888651,Africa,USB
+17/12/2024,Credential Stuffing,Government,10,991141,US,Supply Chain
+18/12/2024,Supply Chain Attack,Education,4,774855,Asia,RDP
+19/12/2024,Phishing,Healthcare,3,675643,EU,Phishing Link
+20/12/2024,DDoS,Finance,4,899529,Asia,Phishing Link
+21/12/2024,Ransomware,Education,3,613560,South America,RDP
+22/12/2024,Insider Threat,Education,8,236338,UK,Email
+23/12/2024,Phishing,Technology,4,563357,Africa,RDP
+24/12/2024,Insider Threat,Retail,3,922646,Australia,Compromised Vendor
+25/12/2024,Credential Stuffing,Government,6,589712,EU,Web Exploit
+26/12/2024,Supply Chain Attack,Finance,3,573031,EU,Web Exploit
+27/12/2024,Insider Threat,Energy,2,773771,EU,Phishing Link
+28/12/2024,Credential Stuffing,Energy,9,836756,Asia,USB
+29/12/2024,Credential Stuffing,Education,2,673941,Australia,RDP
+30/12/2024,Supply Chain Attack,Finance,8,226137,Asia,USB
+31/12/2024,Insider Threat,Technology,9,405606,UK,Supply Chain
+01/01/2025,Supply Chain Attack,Energy,4,410363,US,Email
+02/01/2025,Phishing,Government,2,214299,EU,Compromised Vendor
+03/01/2025,Supply Chain Attack,Government,3,956884,EU,Compromised Vendor
+04/01/2025,Phishing,Finance,6,390184,US,Supply Chain
+05/01/2025,Phishing,Energy,2,523572,Africa,Email
+06/01/2025,Insider Threat,Healthcare,5,105779,South America,Compromised Vendor
+07/01/2025,Supply Chain Attack,Healthcare,1,62543,Asia,Supply Chain
+08/01/2025,Phishing,Energy,10,293035,EU,RDP
+09/01/2025,Phishing,Energy,5,245811,Australia,USB
+10/01/2025,Supply Chain Attack,Energy,9,835524,Australia,RDP
+11/01/2025,Supply Chain Attack,Energy,4,825171,UK,RDP
+12/01/2025,Credential Stuffing,Technology,7,923035,Asia,USB
+13/01/2025,DDoS,Retail,2,50631,South America,Phishing Link
+14/01/2025,Supply Chain Attack,Finance,7,468119,EU,Web Exploit
+15/01/2025,Phishing,Government,8,694398,US,Email
+16/01/2025,Supply Chain Attack,Retail,3,552681,Australia,Compromised Vendor
+17/01/2025,Ransomware,Education,5,613677,Australia,Email
+18/01/2025,Credential Stuffing,Government,7,923517,Australia,Phishing Link
+19/01/2025,Ransomware,Retail,7,475973,UK,RDP
+20/01/2025,Credential Stuffing,Finance,8,165342,UK,RDP
+21/01/2025,Malware,Energy,6,207961,Asia,Compromised Vendor
+22/01/2025,DDoS,Education,7,872323,EU,Supply Chain
+23/01/2025,Insider Threat,Finance,4,409086,EU,RDP
+24/01/2025,Ransomware,Energy,4,784265,UK,USB
+25/01/2025,Malware,Finance,4,893880,US,Email
+26/01/2025,Credential Stuffing,Government,6,255680,EU,Phishing Link
+27/01/2025,DDoS,Energy,1,660978,US,Phishing Link
+28/01/2025,DDoS,Energy,9,902912,US,Web Exploit
+29/01/2025,Supply Chain Attack,Healthcare,1,926620,South America,Email
+30/01/2025,Credential Stuffing,Education,4,135846,Australia,Phishing Link
+31/01/2025,Phishing,Government,7,987598,EU,Web Exploit
+01/02/2025,Ransomware,Healthcare,2,911653,South America,RDP
+02/02/2025,Ransomware,Finance,3,40161,US,Compromised Vendor
+03/02/2025,DDoS,Technology,1,265358,South America,Compromised Vendor
+04/02/2025,Credential Stuffing,Education,7,871290,Asia,Web Exploit
+05/02/2025,Supply Chain Attack,Healthcare,9,898537,South America,USB
+06/02/2025,Credential Stuffing,Government,9,895634,EU,Compromised Vendor
+07/02/2025,Supply Chain Attack,Education,7,643035,EU,RDP
+08/02/2025,Credential Stuffing,Retail,1,449503,South America,RDP
+09/02/2025,Supply Chain Attack,Energy,10,761350,South America,Email
+10/02/2025,Malware,Healthcare,2,981160,Africa,Supply Chain
+11/02/2025,Phishing,Retail,5,462242,EU,Phishing Link
+12/02/2025,Phishing,Government,3,70031,South America,Supply Chain
+13/02/2025,Supply Chain Attack,Retail,9,870311,UK,Phishing Link
+14/02/2025,Credential Stuffing,Energy,9,391001,South America,USB
+15/02/2025,Insider Threat,Healthcare,4,953202,South America,USB
+16/02/2025,DDoS,Government,10,482369,Australia,Compromised Vendor
+17/02/2025,Credential Stuffing,Government,10,371444,UK,Web Exploit
+18/02/2025,Malware,Technology,8,93380,US,Web Exploit
+19/02/2025,DDoS,Retail,7,174935,Australia,Web Exploit
+20/02/2025,Supply Chain Attack,Education,2,829862,EU,Compromised Vendor
+21/02/2025,Phishing,Education,9,84351,EU,Web Exploit
+22/02/2025,Credential Stuffing,Energy,3,606053,Asia,USB
+23/02/2025,Credential Stuffing,Healthcare,10,487510,South America,Compromised Vendor
+24/02/2025,Ransomware,Healthcare,1,883097,Asia,Supply Chain
+25/02/2025,Insider Threat,Education,5,90958,EU,Email
+26/02/2025,Phishing,Education,9,931444,Africa,RDP
+27/02/2025,Insider Threat,Education,5,857018,Australia,USB
+28/02/2025,Ransomware,Healthcare,6,585733,US,USB
+01/03/2025,Ransomware,Finance,4,516567,South America,Compromised Vendor
+02/03/2025,Credential Stuffing,Healthcare,9,876189,South America,Web Exploit
+03/03/2025,Credential Stuffing,Education,7,831718,Australia,USB
+04/03/2025,Supply Chain Attack,Finance,8,420062,South America,RDP
+05/03/2025,Credential Stuffing,Energy,4,143437,South America,USB
+06/03/2025,Supply Chain Attack,Government,5,879884,UK,RDP
+07/03/2025,Phishing,Healthcare,1,131456,Australia,Supply Chain
+08/03/2025,Malware,Healthcare,8,968672,Asia,RDP
+09/03/2025,Insider Threat,Education,1,850570,South America,USB
+10/03/2025,DDoS,Energy,6,797333,Asia,USB
+11/03/2025,DDoS,Finance,5,630686,US,Phishing Link
+12/03/2025,Supply Chain Attack,Retail,2,118008,UK,RDP
+13/03/2025,Ransomware,Energy,8,984870,US,USB
+14/03/2025,Credential Stuffing,Retail,5,438866,South America,Web Exploit
+15/03/2025,DDoS,Finance,3,455252,South America,RDP
+16/03/2025,Insider Threat,Retail,3,970869,South America,Web Exploit
+17/03/2025,DDoS,Technology,6,758262,UK,USB
+18/03/2025,Credential Stuffing,Government,7,468404,UK,Web Exploit
+19/03/2025,Credential Stuffing,Technology,2,774097,UK,USB
+20/03/2025,Ransomware,Energy,7,335979,EU,Email
+21/03/2025,DDoS,Government,2,277354,South America,Web Exploit
+22/03/2025,Phishing,Healthcare,9,407956,UK,Phishing Link
+23/03/2025,Ransomware,Retail,6,114811,EU,Email
+24/03/2025,Credential Stuffing,Education,4,830554,UK,USB
+25/03/2025,Insider Threat,Healthcare,5,62705,Africa,Email
+26/03/2025,Phishing,Finance,10,860800,Asia,Compromised Vendor
+27/03/2025,Insider Threat,Government,10,204395,Africa,RDP
+28/03/2025,Ransomware,Education,2,805691,Australia,Compromised Vendor
+29/03/2025,DDoS,Technology,7,673854,UK,Compromised Vendor
+30/03/2025,Insider Threat,Education,10,647531,South America,Phishing Link
+31/03/2025,Credential Stuffing,Finance,1,509424,EU,RDP
+01/04/2025,Supply Chain Attack,Healthcare,1,318624,US,USB
+02/04/2025,Credential Stuffing,Healthcare,6,475728,South America,Email
+03/04/2025,Insider Threat,Energy,4,243607,Australia,Phishing Link
+04/04/2025,Malware,Healthcare,7,261837,EU,Compromised Vendor
+05/04/2025,Credential Stuffing,Finance,1,914436,UK,Compromised Vendor
+06/04/2025,Ransomware,Technology,4,362785,Africa,Compromised Vendor
+07/04/2025,Supply Chain Attack,Finance,4,536548,EU,USB
+08/04/2025,Supply Chain Attack,Technology,5,126016,Africa,Compromised Vendor
+09/04/2025,Ransomware,Technology,1,796426,EU,USB
+10/04/2025,Ransomware,Retail,5,98677,US,USB
+11/04/2025,Insider Threat,Healthcare,9,995081,UK,Phishing Link
+12/04/2025,Phishing,Healthcare,10,535957,South America,Phishing Link
+13/04/2025,Ransomware,Healthcare,10,575316,Asia,Phishing Link
+14/04/2025,DDoS,Government,8,553331,Asia,RDP
+15/04/2025,Phishing,Government,9,713639,Australia,Email
+16/04/2025,Supply Chain Attack,Healthcare,5,234391,UK,USB
+17/04/2025,Insider Threat,Healthcare,5,35265,UK,USB
+18/04/2025,Ransomware,Healthcare,6,606134,South America,USB
+19/04/2025,Malware,Education,10,521897,EU,Phishing Link
+20/04/2025,Ransomware,Education,7,890990,Africa,Email
+21/04/2025,Malware,Energy,5,195905,South America,Email
+22/04/2025,Phishing,Healthcare,1,373478,South America,Compromised Vendor
+23/04/2025,Credential Stuffing,Finance,5,388988,UK,Supply Chain
+24/04/2025,Insider Threat,Healthcare,10,546731,Africa,Supply Chain
+25/04/2025,Supply Chain Attack,Retail,9,810147,Asia,Supply Chain
+26/04/2025,Phishing,Education,6,554084,South America,USB
+27/04/2025,Credential Stuffing,Government,1,239577,Australia,USB
+28/04/2025,Ransomware,Government,5,575491,Australia,Email
+29/04/2025,Ransomware,Technology,6,133284,Asia,USB
+30/04/2025,Phishing,Finance,3,825611,UK,Supply Chain
+01/05/2025,Malware,Technology,9,978662,EU,Phishing Link
+02/05/2025,Phishing,Energy,1,272193,UK,Email
+03/05/2025,Supply Chain Attack,Healthcare,2,222596,US,Compromised Vendor
+04/05/2025,Malware,Healthcare,4,741629,Africa,USB
+05/05/2025,Insider Threat,Retail,2,779062,EU,Email
+06/05/2025,Malware,Technology,8,809213,Australia,Compromised Vendor
+07/05/2025,Ransomware,Government,2,109071,EU,Email
+08/05/2025,Ransomware,Education,10,62541,EU,Supply Chain
+09/05/2025,Malware,Education,2,728380,EU,RDP
+10/05/2025,Credential Stuffing,Education,5,204038,EU,Phishing Link
+11/05/2025,Ransomware,Technology,9,576878,US,Email
+12/05/2025,Credential Stuffing,Energy,3,882132,Australia,USB
+13/05/2025,Insider Threat,Retail,1,935722,EU,Compromised Vendor
+14/05/2025,Phishing,Technology,3,442183,Asia,Compromised Vendor
+15/05/2025,Supply Chain Attack,Energy,9,335915,Asia,RDP
+16/05/2025,Malware,Retail,8,355485,Africa,USB
+17/05/2025,DDoS,Healthcare,1,632323,UK,USB
+18/05/2025,Ransomware,Technology,4,30384,Africa,Supply Chain
+19/05/2025,Ransomware,Retail,4,683437,South America,Phishing Link
+20/05/2025,Phishing,Education,5,123371,Asia,RDP
+21/05/2025,Phishing,Healthcare,6,465871,US,Web Exploit
+22/05/2025,Malware,Retail,10,776084,Australia,USB
+23/05/2025,DDoS,Energy,9,642949,UK,Web Exploit
+24/05/2025,Supply Chain Attack,Energy,10,300540,US,RDP
+25/05/2025,Insider Threat,Finance,7,427292,US,Compromised Vendor
+26/05/2025,Supply Chain Attack,Technology,6,418255,UK,Phishing Link
+27/05/2025,Supply Chain Attack,Education,8,645205,Asia,USB
+28/05/2025,DDoS,Finance,7,490960,Australia,Phishing Link
+29/05/2025,DDoS,Government,3,369763,Australia,Web Exploit
+30/05/2025,DDoS,Finance,2,966747,EU,Email
+31/05/2025,Insider Threat,Education,1,83223,South America,USB
+01/06/2025,Phishing,Technology,4,438895,Australia,Email
+02/06/2025,Insider Threat,Retail,2,319303,Africa,Compromised Vendor
+03/06/2025,Supply Chain Attack,Technology,5,526383,Asia,USB
+04/06/2025,Phishing,Education,7,211594,US,Compromised Vendor
+05/06/2025,Insider Threat,Healthcare,7,149563,Asia,RDP
+06/06/2025,Credential Stuffing,Healthcare,9,571362,Asia,Web Exploit
+07/06/2025,Credential Stuffing,Government,5,167657,Australia,RDP
+08/06/2025,DDoS,Government,3,511532,Africa,Web Exploit
+09/06/2025,Insider Threat,Education,7,277539,South America,USB
+10/06/2025,Phishing,Finance,9,85175,Asia,RDP
+11/06/2025,Phishing,Finance,5,970519,US,Supply Chain
+12/06/2025,Supply Chain Attack,Finance,6,207853,South America,Email
+13/06/2025,Ransomware,Energy,7,664802,EU,Web Exploit
+14/06/2025,Ransomware,Finance,5,113203,South America,USB
+15/06/2025,DDoS,Retail,8,262013,Africa,USB
+16/06/2025,Insider Threat,Government,7,44661,Australia,Compromised Vendor
+17/06/2025,DDoS,Finance,1,758131,UK,USB
+18/06/2025,Phishing,Healthcare,7,23593,Australia,RDP
+19/06/2025,Insider Threat,Healthcare,1,313819,UK,Web Exploit
+20/06/2025,DDoS,Education,5,405461,South America,Web Exploit
+21/06/2025,DDoS,Education,10,484793,Asia,Web Exploit
+22/06/2025,Phishing,Technology,2,849537,Asia,Supply Chain
+23/06/2025,Phishing,Technology,4,83205,Asia,Phishing Link
+24/06/2025,DDoS,Government,7,725622,South America,Web Exploit
+25/06/2025,Malware,Healthcare,1,552268,Africa,Supply Chain
+26/06/2025,Supply Chain Attack,Finance,10,274545,Asia,Compromised Vendor
+27/06/2025,Malware,Technology,5,53410,South America,Phishing Link
+28/06/2025,DDoS,Retail,2,573623,Asia,Compromised Vendor
+29/06/2025,Credential Stuffing,Energy,5,717269,UK,RDP
+30/06/2025,Insider Threat,Education,7,854498,Australia,Phishing Link
+01/07/2025,Supply Chain Attack,Energy,9,430665,UK,Phishing Link
+02/07/2025,Malware,Technology,8,901632,Australia,Supply Chain
+03/07/2025,Credential Stuffing,Retail,9,747697,Africa,Web Exploit
+04/07/2025,Ransomware,Energy,6,245400,Africa,Email
+05/07/2025,DDoS,Education,9,938355,EU,RDP
+06/07/2025,Credential Stuffing,Retail,9,595645,Asia,Supply Chain
+07/07/2025,Ransomware,Retail,8,791632,EU,Email
+08/07/2025,DDoS,Energy,7,852570,Australia,RDP
+09/07/2025,Malware,Energy,2,883586,UK,Phishing Link
+10/07/2025,Insider Threat,Education,9,11921,EU,Phishing Link
+11/07/2025,Insider Threat,Education,7,16176,Africa,Email
+12/07/2025,Ransomware,Government,10,906121,UK,Compromised Vendor
+13/07/2025,Supply Chain Attack,Finance,10,416233,UK,Email
+14/07/2025,Credential Stuffing,Energy,6,642385,US,Compromised Vendor
+15/07/2025,Supply Chain Attack,Finance,7,514214,UK,Email
+16/07/2025,Ransomware,Energy,10,334489,EU,Compromised Vendor
+17/07/2025,Credential Stuffing,Retail,6,509514,US,Phishing Link
+18/07/2025,DDoS,Technology,4,964251,UK,Phishing Link
+19/07/2025,Ransomware,Government,5,465093,EU,Supply Chain
+20/07/2025,Ransomware,Technology,6,990314,Asia,Web Exploit
+21/07/2025,Credential Stuffing,Technology,5,677021,Africa,Supply Chain
+22/07/2025,Malware,Education,1,150957,Asia,USB
+23/07/2025,Supply Chain Attack,Education,9,44626,US,Phishing Link
+24/07/2025,Insider Threat,Retail,1,809586,Australia,Email
+25/07/2025,DDoS,Government,5,496092,EU,RDP
+26/07/2025,Malware,Retail,7,612345,UK,Email
+27/07/2025,Insider Threat,Finance,3,833585,US,RDP
+28/07/2025,Insider Threat,Education,5,505540,Africa,Supply Chain
+29/07/2025,Phishing,Government,2,660462,EU,Phishing Link
+30/07/2025,Phishing,Education,10,777151,EU,Web Exploit
+31/07/2025,Ransomware,Retail,3,807970,Australia,Compromised Vendor
+01/08/2025,Ransomware,Government,10,452128,Africa,Supply Chain
+02/08/2025,Phishing,Technology,8,755545,Africa,USB
+03/08/2025,Credential Stuffing,Energy,2,994560,Australia,USB
+04/08/2025,Malware,Technology,5,703474,Asia,Web Exploit
+05/08/2025,DDoS,Technology,6,415863,UK,RDP
+06/08/2025,Malware,Technology,3,935463,UK,RDP
+07/08/2025,Insider Threat,Finance,6,505118,US,USB
+08/08/2025,Insider Threat,Energy,2,484584,UK,Compromised Vendor
+09/08/2025,Malware,Government,9,384945,Australia,Email
+10/08/2025,Ransomware,Retail,1,601106,EU,RDP
+11/08/2025,Insider Threat,Education,8,827889,South America,USB
+12/08/2025,Malware,Retail,10,507506,UK,Web Exploit
+13/08/2025,Phishing,Government,7,470255,UK,Phishing Link
+14/08/2025,Credential Stuffing,Energy,8,561922,South America,USB
+15/08/2025,Credential Stuffing,Government,1,997075,UK,Email
+16/08/2025,DDoS,Energy,3,759143,US,USB
+17/08/2025,Malware,Technology,4,430714,EU,Phishing Link
+18/08/2025,Supply Chain Attack,Retail,4,990599,Africa,Supply Chain
+19/08/2025,DDoS,Finance,2,209819,Africa,Email
+20/08/2025,Ransomware,Finance,5,170930,EU,Compromised Vendor
+21/08/2025,Malware,Healthcare,2,62209,Asia,RDP
+22/08/2025,Ransomware,Healthcare,5,394852,UK,Compromised Vendor
+23/08/2025,Credential Stuffing,Energy,1,361826,Asia,Supply Chain
+24/08/2025,Insider Threat,Education,5,345419,UK,RDP
+25/08/2025,Supply Chain Attack,Education,9,848073,South America,Compromised Vendor
+26/08/2025,DDoS,Education,7,470010,Asia,Phishing Link
+27/08/2025,DDoS,Education,9,188204,EU,Phishing Link
+28/08/2025,Credential Stuffing,Healthcare,4,592951,US,Compromised Vendor
+29/08/2025,Insider Threat,Finance,10,307686,US,Email
+30/08/2025,Malware,Energy,1,145322,Africa,Supply Chain
+31/08/2025,Phishing,Education,4,863324,Asia,Compromised Vendor
+01/09/2025,Phishing,Energy,4,920895,Africa,Email
+02/09/2025,Supply Chain Attack,Healthcare,2,678470,UK,RDP
+03/09/2025,DDoS,Finance,7,476047,Africa,Email
+04/09/2025,Malware,Finance,2,305889,Asia,Compromised Vendor
+05/09/2025,DDoS,Finance,1,777642,Asia,Supply Chain
+06/09/2025,DDoS,Technology,8,274972,Asia,USB
+07/09/2025,Ransomware,Technology,4,34776,UK,Compromised Vendor
+08/09/2025,Phishing,Energy,2,288766,Africa,Web Exploit
+09/09/2025,Malware,Healthcare,7,498410,Africa,Supply Chain
+10/09/2025,Supply Chain Attack,Energy,2,70722,South America,USB
+11/09/2025,DDoS,Healthcare,5,797918,Australia,Web Exploit
+12/09/2025,Malware,Retail,6,530244,Africa,Phishing Link
+13/09/2025,Supply Chain Attack,Retail,6,884548,South America,Phishing Link
+14/09/2025,Malware,Healthcare,2,480047,Africa,RDP
+15/09/2025,Malware,Education,1,749425,Australia,Web Exploit
+16/09/2025,Phishing,Finance,2,941534,Africa,Email
+17/09/2025,Insider Threat,Retail,9,841942,EU,Supply Chain
+18/09/2025,Phishing,Retail,10,654133,EU,Compromised Vendor
+19/09/2025,Credential Stuffing,Finance,6,924288,Africa,RDP
+20/09/2025,Malware,Retail,4,26536,Asia,USB
+21/09/2025,Phishing,Technology,5,710245,US,Web Exploit
+22/09/2025,Supply Chain Attack,Government,2,642605,US,Compromised Vendor
+23/09/2025,Supply Chain Attack,Government,7,650189,EU,USB
+24/09/2025,Ransomware,Retail,3,779742,UK,Compromised Vendor
+25/09/2025,Phishing,Education,2,26862,UK,Compromised Vendor
+26/09/2025,Malware,Government,1,332599,Australia,USB
+27/09/2025,Supply Chain Attack,Education,7,285721,South America,Supply Chain
+28/09/2025,Phishing,Healthcare,10,271041,EU,Compromised Vendor
+29/09/2025,Ransomware,Finance,6,903052,Asia,Compromised Vendor
+30/09/2025,Credential Stuffing,Technology,3,824589,UK,RDP
+01/10/2025,Ransomware,Retail,8,351065,Australia,Compromised Vendor
+02/10/2025,Credential Stuffing,Government,7,745504,Asia,Email
+03/10/2025,Credential Stuffing,Energy,4,410749,Africa,Web Exploit
+04/10/2025,Phishing,Education,7,716764,EU,Web Exploit
+05/10/2025,Malware,Retail,8,649583,US,Compromised Vendor
+06/10/2025,Credential Stuffing,Healthcare,7,151311,Australia,Email
+07/10/2025,Malware,Healthcare,2,683845,EU,RDP
+08/10/2025,DDoS,Government,3,166403,Africa,Web Exploit
+09/10/2025,Malware,Technology,6,829685,UK,Web Exploit
+10/10/2025,Credential Stuffing,Retail,2,864792,Africa,USB
+11/10/2025,Supply Chain Attack,Retail,1,827943,Africa,RDP
+12/10/2025,Insider Threat,Energy,3,991486,Asia,Compromised Vendor
+13/10/2025,Supply Chain Attack,Technology,3,115245,Asia,Supply Chain
+14/10/2025,Malware,Retail,5,406954,US,Phishing Link
+15/10/2025,Credential Stuffing,Technology,2,398248,UK,Compromised Vendor
+16/10/2025,Credential Stuffing,Healthcare,7,321241,Australia,USB
+17/10/2025,Insider Threat,Healthcare,9,558020,Australia,Web Exploit
+18/10/2025,Insider Threat,Finance,8,769144,US,Compromised Vendor
+19/10/2025,DDoS,Healthcare,10,924826,US,USB
+20/10/2025,Supply Chain Attack,Healthcare,1,468757,Asia,Compromised Vendor
+21/10/2025,DDoS,Finance,9,187789,Australia,Supply Chain
+22/10/2025,Malware,Retail,5,166182,US,Phishing Link
+23/10/2025,Credential Stuffing,Healthcare,2,109101,US,Email
+24/10/2025,Malware,Finance,3,181618,Australia,RDP
+25/10/2025,Insider Threat,Retail,8,349793,Asia,USB
+26/10/2025,DDoS,Energy,10,255263,Africa,Phishing Link
+27/10/2025,DDoS,Education,8,542586,Africa,Web Exploit
+28/10/2025,Malware,Finance,5,662826,Asia,Email
+29/10/2025,Ransomware,Finance,9,533475,EU,Web Exploit
+30/10/2025,Ransomware,Retail,3,946072,Africa,RDP
+31/10/2025,Supply Chain Attack,Government,1,80922,UK,USB
+01/11/2025,Credential Stuffing,Education,1,486878,Asia,Phishing Link
+02/11/2025,Ransomware,Healthcare,3,9424,EU,Email
+03/11/2025,DDoS,Government,1,415092,US,RDP
+04/11/2025,Ransomware,Retail,10,413663,US,USB
+05/11/2025,Supply Chain Attack,Retail,8,325202,Australia,RDP
+06/11/2025,Credential Stuffing,Retail,5,668202,Asia,USB
+07/11/2025,Supply Chain Attack,Government,10,409164,Australia,Supply Chain
+08/11/2025,Credential Stuffing,Retail,1,353688,US,RDP
+09/11/2025,Ransomware,Education,2,460744,Asia,RDP
+10/11/2025,Malware,Government,1,292464,Australia,Supply Chain
+11/11/2025,Malware,Energy,9,25271,South America,USB
+12/11/2025,Phishing,Education,3,937701,UK,Supply Chain
+13/11/2025,Ransomware,Energy,3,295697,US,RDP
+14/11/2025,Insider Threat,Energy,5,890565,Australia,Compromised Vendor
+15/11/2025,Ransomware,Education,10,134259,South America,Email
+16/11/2025,Ransomware,Retail,8,979326,UK,Email
+17/11/2025,Supply Chain Attack,Education,4,137227,Asia,USB
+18/11/2025,Supply Chain Attack,Government,9,11531,Australia,Compromised Vendor
+19/11/2025,Credential Stuffing,Retail,1,343226,Australia,RDP
+20/11/2025,Credential Stuffing,Healthcare,9,782556,South America,USB
+21/11/2025,Ransomware,Finance,1,194095,South America,Compromised Vendor
+22/11/2025,Ransomware,Technology,6,374938,US,Email
+23/11/2025,Malware,Healthcare,4,590781,Africa,Compromised Vendor
+24/11/2025,Malware,Government,4,567114,Asia,Email
+25/11/2025,Ransomware,Retail,3,248632,UK,USB
+26/11/2025,Phishing,Government,1,295860,Australia,USB
+27/11/2025,Phishing,Technology,4,812583,US,Web Exploit
+28/11/2025,Ransomware,Retail,1,562335,Australia,Email
+29/11/2025,Insider Threat,Energy,2,292102,Africa,USB
+30/11/2025,Credential Stuffing,Finance,7,52270,EU,RDP
+01/12/2025,Supply Chain Attack,Education,10,302004,Asia,Web Exploit
+02/12/2025,Supply Chain Attack,Education,3,430446,Asia,Supply Chain
+03/12/2025,Malware,Education,2,964175,South America,Web Exploit
+04/12/2025,Supply Chain Attack,Technology,9,710305,Asia,Supply Chain
+05/12/2025,Credential Stuffing,Energy,5,988853,South America,Compromised Vendor
+06/12/2025,DDoS,Finance,5,522816,US,Compromised Vendor
+07/12/2025,Insider Threat,Energy,4,880823,Asia,Supply Chain
+08/12/2025,Credential Stuffing,Government,4,599987,Africa,Supply Chain
+09/12/2025,Supply Chain Attack,Healthcare,9,923030,Australia,Supply Chain
+10/12/2025,Supply Chain Attack,Healthcare,3,879825,Africa,Web Exploit
+11/12/2025,Malware,Healthcare,10,245402,Australia,RDP
+12/12/2025,DDoS,Finance,3,70857,Asia,Phishing Link
+13/12/2025,Supply Chain Attack,Government,5,268278,Asia,Supply Chain
+14/12/2025,Credential Stuffing,Technology,9,352139,EU,Compromised Vendor
+15/12/2025,Supply Chain Attack,Government,6,370086,US,Web Exploit
+16/12/2025,Phishing,Government,10,891199,South America,Phishing Link
+17/12/2025,Supply Chain Attack,Technology,3,521375,Australia,USB
+18/12/2025,Supply Chain Attack,Healthcare,7,676302,UK,Supply Chain
+19/12/2025,Phishing,Healthcare,3,407260,Asia,Web Exploit
+20/12/2025,Malware,Technology,4,289751,UK,Email
+21/12/2025,Credential Stuffing,Healthcare,8,824680,Australia,Web Exploit
+22/12/2025,Malware,Healthcare,7,74877,South America,Compromised Vendor
+23/12/2025,DDoS,Finance,7,86888,South America,Compromised Vendor
+24/12/2025,Phishing,Healthcare,3,908937,UK,Email
+25/12/2025,Supply Chain Attack,Government,8,733493,Australia,Supply Chain
+26/12/2025,Credential Stuffing,Energy,6,552557,Asia,Email
+27/12/2025,Supply Chain Attack,Government,8,436552,UK,Email
+28/12/2025,Insider Threat,Energy,4,355909,Africa,Web Exploit
+29/12/2025,Phishing,Government,7,968445,Australia,RDP
+30/12/2025,DDoS,Retail,3,619540,Australia,Compromised Vendor
+31/12/2025,Phishing,Government,5,975216,EU,Supply Chain
+01/01/2026,Insider Threat,Finance,4,516125,US,Email
+02/01/2026,Phishing,Finance,3,248680,EU,Compromised Vendor
+03/01/2026,Insider Threat,Energy,7,72964,Africa,Supply Chain
+04/01/2026,Ransomware,Technology,10,711974,EU,RDP
+05/01/2026,Insider Threat,Healthcare,2,231408,UK,Compromised Vendor
+06/01/2026,Supply Chain Attack,Technology,8,446270,Australia,Supply Chain
+07/01/2026,Insider Threat,Government,10,84834,UK,Supply Chain
+08/01/2026,Malware,Government,10,817084,UK,Compromised Vendor
+09/01/2026,Credential Stuffing,Energy,7,705854,South America,Supply Chain
+10/01/2026,Credential Stuffing,Energy,7,919917,EU,USB
+11/01/2026,Credential Stuffing,Government,5,391479,South America,RDP
+12/01/2026,Credential Stuffing,Technology,9,119375,EU,Compromised Vendor
+13/01/2026,Supply Chain Attack,Finance,1,870799,UK,Supply Chain
+14/01/2026,Phishing,Finance,8,918437,South America,Web Exploit
+15/01/2026,Phishing,Government,10,498645,Africa,RDP
+16/01/2026,Credential Stuffing,Healthcare,7,577526,Australia,USB
+17/01/2026,Credential Stuffing,Energy,2,885426,South America,Web Exploit
+18/01/2026,Credential Stuffing,Technology,6,787572,Asia,Phishing Link
+19/01/2026,Malware,Healthcare,2,264463,US,Phishing Link
+20/01/2026,Phishing,Finance,9,362530,Africa,Supply Chain
+21/01/2026,Credential Stuffing,Retail,9,546697,UK,Phishing Link
+22/01/2026,Ransomware,Government,4,18437,Africa,Supply Chain
+23/01/2026,DDoS,Technology,9,788756,Africa,Web Exploit
+24/01/2026,Phishing,Finance,3,881688,Australia,USB
+25/01/2026,Insider Threat,Government,2,855078,Australia,USB
+26/01/2026,Credential Stuffing,Finance,3,550579,South America,Email
+27/01/2026,Ransomware,Finance,3,244530,South America,RDP
+28/01/2026,Supply Chain Attack,Education,1,556260,EU,Supply Chain
+29/01/2026,Insider Threat,Retail,6,968482,Asia,RDP
+30/01/2026,Supply Chain Attack,Technology,9,809837,Asia,Web Exploit
+31/01/2026,Insider Threat,Finance,7,383321,US,Email
+01/02/2026,Ransomware,Education,8,759526,South America,Supply Chain
+02/02/2026,Ransomware,Finance,6,114338,Australia,Compromised Vendor
+03/02/2026,Phishing,Education,6,740593,EU,Compromised Vendor
+04/02/2026,DDoS,Energy,5,752937,Asia,Email
+05/02/2026,Insider Threat,Education,9,617358,Asia,Email
+06/02/2026,Supply Chain Attack,Technology,3,363656,US,Phishing Link
+07/02/2026,Insider Threat,Retail,9,678098,South America,RDP
+08/02/2026,Supply Chain Attack,Government,5,98973,US,Phishing Link
+09/02/2026,Ransomware,Government,3,507823,Africa,Supply Chain
+10/02/2026,DDoS,Technology,8,623067,Asia,Phishing Link
+11/02/2026,Supply Chain Attack,Education,9,799636,EU,Supply Chain
+12/02/2026,Insider Threat,Finance,9,947593,Africa,Compromised Vendor
+13/02/2026,Credential Stuffing,Retail,7,833462,UK,USB
+14/02/2026,Ransomware,Technology,7,241616,Africa,Web Exploit
+15/02/2026,Credential Stuffing,Retail,6,710242,Australia,Supply Chain
+16/02/2026,Credential Stuffing,Energy,2,987782,Asia,RDP
+17/02/2026,Phishing,Retail,9,921501,South America,Phishing Link
+18/02/2026,Phishing,Finance,4,317363,US,RDP
+19/02/2026,Malware,Government,3,602057,EU,RDP
+20/02/2026,Malware,Retail,4,165996,US,USB
+21/02/2026,Supply Chain Attack,Government,9,200914,UK,RDP
+22/02/2026,Phishing,Energy,9,907543,UK,RDP
+23/02/2026,Ransomware,Government,1,81730,UK,Email
+24/02/2026,Credential Stuffing,Finance,10,347470,EU,Phishing Link
+25/02/2026,Ransomware,Healthcare,5,752298,Australia,Compromised Vendor
+26/02/2026,Malware,Government,4,663480,Asia,Web Exploit
+27/02/2026,DDoS,Retail,8,79777,Asia,Phishing Link
+28/02/2026,Supply Chain Attack,Energy,4,829180,Asia,Compromised Vendor
+01/03/2026,Phishing,Finance,3,895852,UK,Compromised Vendor
+02/03/2026,Supply Chain Attack,Finance,6,890531,US,RDP
+03/03/2026,Credential Stuffing,Finance,3,474542,US,Email
+04/03/2026,DDoS,Technology,5,82669,Africa,Web Exploit
+05/03/2026,Credential Stuffing,Retail,9,866520,South America,USB
+06/03/2026,Supply Chain Attack,Energy,7,827032,US,USB
+07/03/2026,Malware,Education,9,741203,UK,Supply Chain
+08/03/2026,DDoS,Finance,4,482062,Africa,USB
+09/03/2026,Credential Stuffing,Government,9,722489,South America,RDP
+10/03/2026,Ransomware,Finance,3,605863,Africa,Web Exploit
+11/03/2026,Insider Threat,Technology,1,306944,South America,Email
+12/03/2026,Insider Threat,Energy,10,565536,South America,Compromised Vendor
+13/03/2026,DDoS,Technology,9,505659,Africa,Phishing Link
+14/03/2026,Insider Threat,Technology,3,594802,US,RDP
+15/03/2026,DDoS,Energy,3,155748,Asia,Supply Chain
+16/03/2026,Phishing,Education,3,49430,Australia,USB
+17/03/2026,Malware,Government,6,362079,EU,Phishing Link
+18/03/2026,DDoS,Technology,2,555291,Asia,USB
+19/03/2026,Supply Chain Attack,Government,2,478970,US,Web Exploit
+20/03/2026,Supply Chain Attack,Government,6,319258,Asia,USB
+21/03/2026,Ransomware,Finance,9,928789,US,Email
+22/03/2026,Supply Chain Attack,Finance,4,914490,UK,Compromised Vendor
+23/03/2026,Malware,Government,2,173544,Africa,Phishing Link
+24/03/2026,Ransomware,Energy,7,822140,South America,Compromised Vendor
+25/03/2026,Supply Chain Attack,Education,7,156953,South America,RDP
+26/03/2026,Insider Threat,Healthcare,2,817342,EU,Email
+27/03/2026,Phishing,Government,2,164555,Asia,RDP
+28/03/2026,Supply Chain Attack,Education,5,254393,Australia,Web Exploit
+29/03/2026,Credential Stuffing,Education,4,561871,Asia,Phishing Link
+30/03/2026,Insider Threat,Technology,6,903855,Asia,Web Exploit
+31/03/2026,Phishing,Education,6,522920,Africa,RDP
+01/04/2026,Supply Chain Attack,Government,9,544626,EU,Email
+02/04/2026,DDoS,Energy,9,922316,South America,USB
+03/04/2026,Malware,Technology,5,633697,Asia,Email
+04/04/2026,Ransomware,Government,1,372025,South America,Compromised Vendor
+05/04/2026,Credential Stuffing,Technology,8,100272,Australia,Compromised Vendor
+06/04/2026,Credential Stuffing,Healthcare,2,723401,UK,USB
+07/04/2026,DDoS,Education,7,408462,EU,Compromised Vendor
+08/04/2026,Supply Chain Attack,Technology,3,778201,Australia,RDP
+09/04/2026,Credential Stuffing,Finance,5,997513,UK,Phishing Link
+10/04/2026,Supply Chain Attack,Retail,3,635848,Asia,Compromised Vendor
+11/04/2026,Ransomware,Retail,7,194915,UK,Web Exploit
+12/04/2026,Phishing,Education,5,978290,Asia,Compromised Vendor
+13/04/2026,Ransomware,Retail,6,539316,Africa,Compromised Vendor
+14/04/2026,Supply Chain Attack,Retail,7,453672,EU,Email
+15/04/2026,Insider Threat,Government,6,858704,Africa,Email
+16/04/2026,Ransomware,Government,8,419513,US,RDP
+17/04/2026,Phishing,Healthcare,1,150746,Africa,Compromised Vendor
+18/04/2026,Credential Stuffing,Education,4,342262,US,Supply Chain
+19/04/2026,Supply Chain Attack,Retail,7,366532,Australia,Compromised Vendor
+20/04/2026,Credential Stuffing,Government,5,855330,US,Phishing Link
+21/04/2026,Ransomware,Retail,9,661968,UK,Email
+22/04/2026,Credential Stuffing,Retail,9,576109,Australia,Compromised Vendor
+23/04/2026,Malware,Finance,8,603997,Australia,RDP
+24/04/2026,Phishing,Energy,7,556096,South America,Web Exploit
+25/04/2026,Malware,Education,2,42046,Africa,RDP
+26/04/2026,DDoS,Government,7,897098,Australia,RDP
+27/04/2026,Credential Stuffing,Government,10,253728,EU,Supply Chain
+28/04/2026,Malware,Finance,4,269125,US,Email
+29/04/2026,DDoS,Technology,9,745275,EU,RDP
+30/04/2026,Phishing,Government,3,894097,UK,Supply Chain
+01/05/2026,Ransomware,Finance,10,125104,Asia,USB
+02/05/2026,Phishing,Education,3,594362,US,Supply Chain
+03/05/2026,Insider Threat,Healthcare,7,715302,Australia,Compromised Vendor
+04/05/2026,Phishing,Retail,5,608120,Asia,Email
+05/05/2026,Phishing,Healthcare,1,197748,UK,RDP
+06/05/2026,Supply Chain Attack,Finance,10,558209,Africa,Phishing Link
+07/05/2026,Insider Threat,Retail,10,992802,South America,Compromised Vendor
+08/05/2026,Credential Stuffing,Retail,2,953114,EU,Email
+09/05/2026,Credential Stuffing,Education,6,868234,US,USB
+10/05/2026,Insider Threat,Retail,9,637986,Australia,Phishing Link
+11/05/2026,Supply Chain Attack,Retail,4,965479,Australia,Phishing Link
+12/05/2026,Credential Stuffing,Finance,8,566076,US,USB
+13/05/2026,Phishing,Finance,7,525872,South America,Phishing Link
+14/05/2026,Credential Stuffing,Finance,7,618974,Africa,USB
+15/05/2026,Supply Chain Attack,Retail,2,883174,Asia,Email
+16/05/2026,Insider Threat,Education,9,966602,Asia,Email
+17/05/2026,Credential Stuffing,Finance,9,247078,EU,Supply Chain
+18/05/2026,Supply Chain Attack,Technology,7,399187,EU,Phishing Link
+19/05/2026,Supply Chain Attack,Retail,6,311178,Asia,USB
+20/05/2026,Phishing,Finance,9,848891,UK,Phishing Link
+21/05/2026,Phishing,Technology,6,45294,US,Phishing Link
+22/05/2026,Insider Threat,Education,1,367766,US,Phishing Link
+23/05/2026,DDoS,Retail,3,480299,Africa,RDP
+24/05/2026,Insider Threat,Finance,2,589968,Africa,Compromised Vendor
+25/05/2026,Ransomware,Education,3,270106,South America,Email
+26/05/2026,DDoS,Technology,9,807870,UK,Email
+27/05/2026,Credential Stuffing,Technology,10,502705,US,Email
+28/05/2026,Ransomware,Finance,5,463248,Africa,RDP
+29/05/2026,Insider Threat,Technology,8,792924,Africa,RDP
+30/05/2026,Insider Threat,Healthcare,1,657675,UK,Email
+31/05/2026,Phishing,Retail,9,309415,US,Web Exploit
+01/06/2026,Ransomware,Government,9,810546,UK,Phishing Link
+02/06/2026,Credential Stuffing,Energy,10,20515,US,Supply Chain
+03/06/2026,Insider Threat,Retail,4,265991,US,Web Exploit
+04/06/2026,Insider Threat,Healthcare,8,408025,Africa,RDP
+05/06/2026,Credential Stuffing,Government,9,369868,Australia,Phishing Link
+06/06/2026,Insider Threat,Government,10,211018,South America,Supply Chain
+07/06/2026,Supply Chain Attack,Technology,7,519258,Africa,Phishing Link
+08/06/2026,Ransomware,Finance,4,443553,EU,Compromised Vendor
+09/06/2026,Insider Threat,Government,9,963358,UK,RDP
+10/06/2026,Malware,Retail,8,796851,Asia,RDP
+11/06/2026,Credential Stuffing,Energy,1,895469,South America,Compromised Vendor
+12/06/2026,Malware,Technology,6,332087,Asia,Web Exploit
+13/06/2026,Insider Threat,Energy,9,386042,EU,Email
+14/06/2026,DDoS,Technology,10,338384,UK,Web Exploit
+15/06/2026,Supply Chain Attack,Education,5,204814,Australia,Web Exploit
+16/06/2026,Ransomware,Healthcare,2,530703,US,Phishing Link
+17/06/2026,Supply Chain Attack,Finance,5,930571,Africa,USB
+18/06/2026,Supply Chain Attack,Education,6,957406,UK,Compromised Vendor
+19/06/2026,Phishing,Energy,5,224880,Africa,RDP
+20/06/2026,Supply Chain Attack,Technology,1,464399,US,Email
+21/06/2026,DDoS,Government,7,25854,Africa,Phishing Link
+22/06/2026,Malware,Finance,5,405260,Asia,Compromised Vendor
+23/06/2026,Ransomware,Finance,3,502549,UK,USB
+24/06/2026,Phishing,Technology,9,470358,Africa,Phishing Link
+25/06/2026,Malware,Technology,4,76671,EU,Email
+26/06/2026,Insider Threat,Technology,8,318724,UK,RDP
+27/06/2026,Insider Threat,Healthcare,3,350367,Asia,Supply Chain
+28/06/2026,Phishing,Healthcare,5,414523,Asia,USB
+29/06/2026,Ransomware,Finance,6,434963,Asia,Phishing Link
+30/06/2026,Phishing,Finance,2,369328,UK,RDP
+01/07/2026,Phishing,Government,4,143416,Australia,USB
+02/07/2026,DDoS,Government,6,889312,Africa,Compromised Vendor
+03/07/2026,Insider Threat,Energy,6,654757,Australia,USB
+04/07/2026,Insider Threat,Technology,2,298584,Africa,Web Exploit
+05/07/2026,Malware,Retail,8,968389,EU,Phishing Link
+06/07/2026,DDoS,Energy,5,288493,Australia,Compromised Vendor
+07/07/2026,Insider Threat,Finance,4,188273,South America,Phishing Link
+08/07/2026,DDoS,Energy,4,966772,US,USB
+09/07/2026,Ransomware,Government,5,372450,Australia,Compromised Vendor
+10/07/2026,DDoS,Healthcare,6,492148,EU,Phishing Link
+11/07/2026,Insider Threat,Energy,9,970660,UK,Web Exploit
+12/07/2026,Supply Chain Attack,Retail,3,339980,Australia,Phishing Link
+13/07/2026,Phishing,Technology,4,9908,South America,Supply Chain
+14/07/2026,Ransomware,Education,1,41307,EU,RDP
+15/07/2026,Supply Chain Attack,Retail,5,658908,Africa,Supply Chain
+16/07/2026,Ransomware,Technology,10,361906,Australia,USB
+17/07/2026,Insider Threat,Healthcare,9,835059,Africa,Email
+18/07/2026,Credential Stuffing,Technology,1,936222,UK,USB
+19/07/2026,Supply Chain Attack,Finance,10,657507,Africa,Supply Chain
+20/07/2026,DDoS,Education,9,849555,US,Phishing Link
+21/07/2026,Supply Chain Attack,Retail,1,484706,Australia,Email
+22/07/2026,Phishing,Government,3,662115,Asia,Supply Chain
+23/07/2026,Insider Threat,Finance,2,497588,South America,RDP
+24/07/2026,Ransomware,Finance,7,39097,South America,RDP
+25/07/2026,Ransomware,Retail,8,729890,EU,RDP
+26/07/2026,Ransomware,Education,8,175662,UK,Phishing Link
+27/07/2026,Ransomware,Education,7,560628,EU,Web Exploit
+28/07/2026,Credential Stuffing,Government,8,226400,South America,USB
+29/07/2026,Ransomware,Healthcare,8,335694,Asia,Web Exploit
+30/07/2026,DDoS,Healthcare,9,570187,Australia,Compromised Vendor
+31/07/2026,Phishing,Government,10,965103,UK,RDP
+01/08/2026,DDoS,Education,8,298917,Africa,Supply Chain
+02/08/2026,Supply Chain Attack,Government,1,878063,Asia,Web Exploit
+03/08/2026,Phishing,Retail,2,352608,Africa,USB
+04/08/2026,DDoS,Energy,5,275213,Africa,RDP
+05/08/2026,Insider Threat,Energy,1,153368,South America,Supply Chain
+06/08/2026,Ransomware,Energy,4,65008,South America,RDP
+07/08/2026,Credential Stuffing,Finance,4,158912,EU,Supply Chain
+08/08/2026,Insider Threat,Retail,4,691848,US,Compromised Vendor
+09/08/2026,Credential Stuffing,Energy,10,584608,Australia,Web Exploit
+10/08/2026,Phishing,Retail,6,950694,Asia,Web Exploit
+11/08/2026,Phishing,Education,6,720024,Africa,RDP
+12/08/2026,Malware,Finance,5,911091,Africa,Phishing Link
+13/08/2026,Ransomware,Healthcare,7,172921,UK,Compromised Vendor
+14/08/2026,Ransomware,Education,4,165181,Africa,Compromised Vendor
+15/08/2026,Phishing,Education,10,152478,US,Supply Chain
+16/08/2026,Malware,Technology,3,586446,Asia,Compromised Vendor
+17/08/2026,Credential Stuffing,Energy,2,433943,Africa,Supply Chain
+18/08/2026,Credential Stuffing,Retail,10,800205,UK,Web Exploit
+19/08/2026,Ransomware,Finance,5,267951,Australia,Web Exploit
+20/08/2026,Ransomware,Retail,1,631135,Australia,Email
+21/08/2026,Insider Threat,Retail,7,792424,UK,Supply Chain
+22/08/2026,DDoS,Energy,9,150320,EU,USB
+23/08/2026,Malware,Technology,2,443243,Asia,Email
+24/08/2026,Supply Chain Attack,Finance,3,555387,Africa,USB
+25/08/2026,Phishing,Technology,2,344934,Australia,Phishing Link
+26/08/2026,DDoS,Education,5,149479,Africa,RDP
+27/08/2026,Insider Threat,Healthcare,10,117219,Asia,Web Exploit
+28/08/2026,Phishing,Education,2,415696,South America,Web Exploit
+29/08/2026,Phishing,Education,5,378470,Australia,Web Exploit
+30/08/2026,Insider Threat,Technology,7,917719,US,RDP
+31/08/2026,Supply Chain Attack,Education,7,132145,Asia,USB
+01/09/2026,Supply Chain Attack,Finance,1,803891,Australia,RDP
+02/09/2026,Ransomware,Education,10,650713,South America,Phishing Link
+03/09/2026,Supply Chain Attack,Technology,2,255747,EU,Supply Chain
+04/09/2026,Credential Stuffing,Finance,3,448706,EU,USB
+05/09/2026,Ransomware,Technology,9,678333,EU,Supply Chain
+06/09/2026,DDoS,Technology,8,904713,EU,Web Exploit
+07/09/2026,Supply Chain Attack,Technology,1,219344,Africa,Web Exploit
+08/09/2026,Malware,Finance,5,708035,EU,Phishing Link
+09/09/2026,Ransomware,Healthcare,4,44050,UK,Web Exploit
+10/09/2026,Malware,Retail,6,215334,Asia,Email
+11/09/2026,Phishing,Finance,5,876724,Africa,RDP
+12/09/2026,Insider Threat,Healthcare,8,74085,EU,Supply Chain
+13/09/2026,DDoS,Retail,5,40647,Africa,Compromised Vendor
+14/09/2026,Ransomware,Finance,1,272346,UK,Email
+15/09/2026,Credential Stuffing,Government,8,378693,Africa,RDP
+16/09/2026,DDoS,Energy,4,467077,Asia,RDP
+17/09/2026,Malware,Retail,9,40658,Asia,Phishing Link
+18/09/2026,Supply Chain Attack,Retail,10,422141,UK,RDP
+19/09/2026,Supply Chain Attack,Education,6,771402,US,Supply Chain
+20/09/2026,Insider Threat,Retail,10,553484,South America,Compromised Vendor
+21/09/2026,Credential Stuffing,Technology,3,734986,EU,USB
+22/09/2026,Malware,Government,4,341734,Australia,Compromised Vendor
+23/09/2026,DDoS,Healthcare,4,242835,Australia,Email
+24/09/2026,Credential Stuffing,Education,5,139220,US,RDP
+25/09/2026,Phishing,Healthcare,10,702927,UK,USB
+26/09/2026,Supply Chain Attack,Energy,8,382437,Australia,RDP
