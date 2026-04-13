@@ -83,3 +83,44 @@ plt.show()
 sns.boxplot(y=df["Estimated_Financial_Impact_USD"])
 plt.title("Financial Impact Outliers")
 plt.show()
+
+# ---------------------------
+# 9. ATTACK TYPE TRENDS OVER TIME
+# ---------------------------
+attack_trends = df.groupby(["Month", "Attack_Type"]).size().unstack()
+
+attack_trends.plot(figsize=(10,6))
+
+plt.title("Attack Type Trends Over Time")
+plt.xlabel("Month")
+plt.ylabel("Number of Attacks")
+plt.legend(title="Attack Type")
+plt.show()
+
+# ---------------------------
+# 10. TOP 10 MOST DAMAGING ATTACKS
+# ---------------------------
+top_attacks = df.nlargest(10, "Estimated_Financial_Impact_USD")
+
+sns.barplot(
+    data=top_attacks,
+    x="Estimated_Financial_Impact_USD",
+    y="Attack_Type"
+)
+
+plt.title("Top 10 Most Damaging Cyber Attacks")
+plt.xlabel("Financial Impact (USD)")
+plt.ylabel("Attack Type")
+plt.show()
+
+# ---------------------------
+# 11. AVERAGE SEVERITY BY SECTOR
+# ---------------------------
+sector_severity = df.groupby("Targeted_Sector")["Severity_Score"].mean().sort_values()
+
+sector_severity.plot(kind="barh")
+
+plt.title("Average Attack Severity by Sector")
+plt.xlabel("Average Severity Score")
+plt.ylabel("Sector")
+plt.show()
